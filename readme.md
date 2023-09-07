@@ -3,6 +3,7 @@
 ### I'm a Nerd, Dreamer, Developer, and a Friend!
 
 - 🎓 Full Stack Bootcamp graduate from the University of Texas - Austin
+- 💡 MERN Stack
 - 🌱 I’m currently learning Python 🐍
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2023 Goals: Learn more about openAI and contribute to more projects!
