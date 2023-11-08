@@ -4,7 +4,7 @@
 
 - 🎓 Full Stack Bootcamp graduate from the University of Texas - Austin
 - 💡 MERN Stack
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m currently learning Amazon Web Services (AWS) ☁️
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2023 Goals: Learn more about openAI and contribute to more projects!
 - ⚡ Fun facts: I love to ride my bike, travel and play PokemonGo! 🤓
